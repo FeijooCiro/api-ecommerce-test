@@ -4,3 +4,5 @@ const Main = async () => {
     const Application = new App()
     await Application.Listen()
 }
+
+Main()
